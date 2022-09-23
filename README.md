@@ -1,1 +1,1 @@
-# Exerc-cio_em_C
+# Exercicio_em_C
